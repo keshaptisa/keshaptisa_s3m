@@ -1,0 +1,25 @@
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+
+# Training artifacts and model weights
+artifacts/
+checkpoints/
+*.pt
+*.pth
+*.ckpt
+*.joblib
+*.parquet
+
+# Local datasets and credentials
+data/
+.env
+*.key
+
+# OS files
+.DS_Store
+Thumbs.db
