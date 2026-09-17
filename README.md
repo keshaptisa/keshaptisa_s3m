@@ -34,10 +34,14 @@
 
 | Файл | Роль |
 |---|---|
-| [`sber_meshqc_multiview_v5.ipynb`](sber_meshqc_multiview_v5.ipynb) | Источник результата 14.987 и предсказаний `v5_224` |
-| [`sber_meshqc_v9_lean.ipynb`](sber_meshqc_v9_lean.ipynb) | Источник предсказаний `vitb336` |
-| [`final_solution_exact.ipynb`](final_solution_exact.ipynb) | Три финальные конфигурации с полными настройками |
-| [`meshqc_train_full.ipynb`](meshqc_train_full.ipynb) | Обучение с нуля: три ветки запускаются отдельными процессами |
+| [`sber_v1.ipynb`](sber_v1.ipynb) | Исходный v5 без сохранённых outputs; базовый код multi-view + геометрия |
+| [`sber_v2.ipynb`](sber_v2.ipynb) | Сохранённая копия v5 с outputs и промежуточными результатами |
+| [`sber_v3.ipynb`](sber_v3.ipynb) | v7: два бэкбона в один проход |
+| [`sber_v4.ipynb`](sber_v4.ipynb) | v7 fixed: исправленная и расширенная версия прогона |
+| [`sber_v5.ipynb`](sber_v5.ipynb) | v8: разрешение 336/448, ML-Decoder и взвешенный ансамбль |
+| [`sber_v6.ipynb`](sber_v6.ipynb) | v9: ViT-B/14 + EVA-02-B/14 на разрешении 336 |
+| [`sber_v7.ipynb`](sber_v7.ipynb) | Три финальные конфигурации с полными настройками |
+| [`sber_v8.ipynb`](sber_v8.ipynb) | Обучение с нуля: три ветки запускаются отдельными процессами |
 | [`submitted_reference.csv`](submitted_reference.csv) | Эталонная отправка, получившая 15.541 |
 
 ## Что работало
