@@ -1,6 +1,6 @@
-# AI Journey 2026 · 3D Mesh Quality Control
+# Notebook Experiment Archive
 
-> Репозиторий экспериментов: от первого multi-view baseline до ансамбля с результатом **15.541**.
+> Архив экспериментов: от первого multi-view baseline до лучшей проверенной сборки с результатом **15.541**.
 
 [![best leaderboard](https://img.shields.io/badge/best%20leaderboard-15.541-e11d48?style=for-the-badge)](submissions/final_15541.csv)
 [![nested CV](https://img.shields.io/badge/nested%20CV-14.855-2563eb?style=for-the-badge)](docs/EXPERIMENTS.md)
